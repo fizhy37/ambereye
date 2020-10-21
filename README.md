@@ -1,6 +1,6 @@
 # Welcome to Project AMBEReye!
 
-This application was developed by Ben Fisher and Caleb Hensley and qualified as a senior project for Brigham Young University - Idaho.
+This application was developed by Ben Fisher and Caleb Hensley and qualified as their senior project for Brigham Young University - Idaho.
 
 The real-world application of this software is its goal to assist the AMBER alert program in the recovery of children by helping law enforcement in the search for suspected kidnappers. Human trafficking is a very real and current issue, and this software is a step toward fighting the global battle that it is.
 
